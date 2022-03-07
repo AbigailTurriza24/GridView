@@ -1,5 +1,5 @@
 package com.example.gridview
-
+//Frute.kt
 class Fruta(nombre:String, imagen:Int) {
     var nombre: String=""
     var imagen:Int = 0
